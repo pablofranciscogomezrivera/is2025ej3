@@ -24,6 +24,7 @@
 1. Desde `master`crear una rama `release/v1.0`
 2. Actualizar el archivo `version`con v1.0.0
 3. Realizar commit y subir los cambios a la rama remota
+4. Crear regla para que las ramas `release` solo puedan ser actualizadas mediante un PR
 
 ## Corregir bug
 1. Crear la rama `bugfix/v1.0.1` desde `release/v1.0`
